@@ -1,3 +1,7 @@
+<a href="https://onyxia-t.intern.statistik.at/launcher/ide/rstudio?name=hello-world-r-shiny&version=2.3.10&git.repository=«https%3A%2F%2Fgithub.com%2Fgarronej%2Fhello-world-shiny»&autoLaunch=true">
+    <img height=20 src="https://user-images.githubusercontent.com/6702424/173724486-30b6232a-c5d2-40da-a0cc-4d4a11824135.png">
+</a>
+
 # `hello-world-shiny`
 
 ## Goals
